@@ -1,0 +1,22 @@
+body {
+    background-color: #f0e68c;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+    text-align: center;
+    margin: 40px;
+}
+h1 {
+    color: #ff6347;
+}
+a {
+    color: #4682b4;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px #aaa;
+}
